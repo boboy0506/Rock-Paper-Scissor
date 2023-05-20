@@ -75,7 +75,3 @@ while True:
 
     if another == "no":
         break
-
-
-
-
